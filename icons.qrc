@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>icons/back0.png</file>
+    <file>icons/back1.png</file>
+    <file>icons/back2.png</file>
+    <file>icons/exit0.png</file>
+    <file>icons/exit1.png</file>
+    <file>icons/search0.png</file>
+    <file>icons/search1.png</file>
+    <file>icons/search2.png</file>
+    <file>icons/search3.png</file>
+    <file>icons/selectall.png</file>
+  </qresource>
+</RCC>
